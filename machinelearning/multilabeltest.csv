@@ -1,0 +1,2 @@
+"id","comment_text","toxic","severe_toxic","obscene","threat","insult","identity_hate"
+GET SOME TEST DATA FROM https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data

@@ -1,0 +1,15 @@
+python-dateutil
+pandas
+gensim
+sklearn
+wordcloud
+matplotlib
+nltk
+pymongo
+scikit-learn
+scipy
+scikit-multilearn
+keras
+tensorflow
+stop_words
+matplotlib
